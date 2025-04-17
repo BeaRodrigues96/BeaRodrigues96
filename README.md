@@ -1,12 +1,9 @@
 # Olá, eu sou a Beatriz Rodrigues! 👩‍💻
 
 🎓 Formanda em Análise e Desenvolvimento de Sistemas  
-🚀 Apaixonada por tecnologia, desafios e aprendizado contínuo  
+🚀 Desenvolvedora em formação com sede de aprender!  
 🌱 Atualmente focada no desenvolvimento backend com C# e .NET  
 
-## 💼 Objetivo
-Estou em busca da minha primeira oportunidade como desenvolvedora backend júnior. 
-Quero contribuir com projetos desafiadores, aprender com profissionais experientes e evoluir constantemente na área de tecnologia.
 
 ## 💻 Tecnologias que estou utilizando em minhas práticas:
 
@@ -21,9 +18,10 @@ Quero contribuir com projetos desafiadores, aprender com profissionais experient
 
 ## 💬 Sobre mim
 
-- Curiosa, determinada e focada em entregar valor através da tecnologia  
-- Valorizo trabalho em equipe, boas práticas de código e documentação  
-- Acredito que diversidade e empatia constroem ambientes mais inovadores  
+- Acredito que a tecnologia deve ser acessível, inclusiva e impactar positivamente a vida das pessoas
+- Gosto de transformar ideias em soluções reais
+- Muito curiosa, criativa e altruísta 
+- Trabalhar com empatia e propósito me inspira todos os dias
 
 ## 📫 Como me encontrar
 
